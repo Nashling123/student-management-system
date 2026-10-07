@@ -113,9 +113,10 @@ in a modern web browser.
 🧪 Test Account
 
 For demonstration purposes:
+example:-
 
-Email: anu@gmail.com
-Password: 1234
+Email: nas@gmail.com
+Password: 123456
 
 After login, student records can be created from the dashboard.
 
