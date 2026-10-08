@@ -161,3 +161,11 @@ Software Development · Web Development · App Development · UI/UX · AI
 Status: Completed — Frontend Prototype
 
 The current version is designed as a functional frontend prototype using browser-based Local Storage.
+## 🎥 Demo Video
+
+Watch the complete working demonstration of the Student Management System:
+
+👉 [View Project Demo Video](https://www.kapwing.com/videos/6ac68f2da48d169ca7bcd36d)
+
+The demo showcases the complete application workflow, including user registration, login, student registration, viewing student records, and deleting student records.
+
